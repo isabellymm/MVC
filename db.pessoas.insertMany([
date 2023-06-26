@@ -1,0 +1,4 @@
+db.pessoas.insertMany([
+    { nome: "Joao", idade: 45, profissao:"Engenheiro", esta_empregado: true},
+    { nome: "Heloisa", idade:29, profissao:"Medica", esta_empregado: true}
+]);
